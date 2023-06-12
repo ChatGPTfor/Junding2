@@ -7,7 +7,7 @@ import { getBuildConfig } from "./config/build";
 const buildConfig = getBuildConfig();
 
 export const metadata = {
-  title: "ChatGPT-Midjourney",
+  title: "小青龙AI",
   description: "Your personal ChatGPT+Midjourney Chat Bot.",
   viewport: {
     width: "device-width",
